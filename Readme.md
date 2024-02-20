@@ -38,9 +38,9 @@ Obs: utilize o arquivo "Tratamento da lista em PQ.xlsx" para tratamento dos dado
 
 ## Tecnologias Utilizadas
 
-- Python
-- Jupyter Notebook
-- Beautiful Soup (para análise HTML)
-- Requests (para fazer solicitações HTTP)
-- Pandas (para manipulação de dados)
-- NumPy (para manipulação de arrays)
+- Python;
+- Jupyter Notebook;
+- Beautiful Soup (para análise HTML);
+- Requests (para fazer solicitações HTTP);
+- Pandas (para manipulação de dados);
+- NumPy (para manipulação de arrays).
