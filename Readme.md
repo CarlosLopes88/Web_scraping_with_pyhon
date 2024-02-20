@@ -27,6 +27,8 @@ Você pode instalá-las usando o pip:
 5. Execute todas as células do notebook. O código irá realizar a consulta ao site e coletar os dados, respeitando o intervalo de 20 segundos entre cada consulta.
 6. Após a conclusão da coleta, os dados serão salvo em um arquivo Excel chamado `lista_pronta.xlsx`.
 
+Obs: utilize o arquivo "Tratamento da lista em PQ.xlsx" para tratamento dos dados no powerquery.
+
 ## Tecnologias Utilizadas
 
 - Python
