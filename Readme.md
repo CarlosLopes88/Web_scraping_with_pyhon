@@ -17,6 +17,17 @@ Você pode instalá-las usando o pip:
 
             pip install beautifulsoup4 requests pandas numpy
 
+## Estrutura do diretório
+
+Web_scraping_with_pyhon/
+│
+├── Readme.md
+│
+├── Tratamento da lista em PQ.xlsx
+│
+├── Web_scraping_receitaws.ipynb
+│
+└── lista.xlsx
 
 ## Instruções de Execução
 
