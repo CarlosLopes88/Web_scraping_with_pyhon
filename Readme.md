@@ -27,11 +27,11 @@ Web_scraping_with_pyhon/
 
 ## Instruções de Execução
 
-1. Clone ou faça o download deste repositório para a sua máquina local.
-2. Certifique-se de ter instalado as bibliotecas listadas nos requisitos.
-3. Execute o Jupyter Notebook `web_scraping_receitaws.ipynb`.
-4. No notebook, forneça o caminho do arquivo Excel contendo a lista de CNPJs a serem consultados.
-5. Execute todas as células do notebook. O código irá realizar a consulta ao site e coletar os dados, respeitando o intervalo de 20 segundos entre cada consulta.
+1. Clone ou faça o download deste repositório para a sua máquina local;
+2. Certifique-se de ter instalado as bibliotecas listadas nos requisitos;
+3. Execute o Jupyter Notebook `web_scraping_receitaws.ipynb`;
+4. No notebook, forneça o caminho do arquivo Excel contendo a lista de CNPJs a serem consultados;
+5. Execute todas as células do notebook. O código irá realizar a consulta ao site e coletar os dados, respeitando o intervalo de 20 segundos entre cada consulta;
 6. Após a conclusão da coleta, os dados serão salvo em um arquivo Excel chamado `lista_pronta.xlsx`.
 
 Obs: utilize o arquivo "Tratamento da lista em PQ.xlsx" para tratamento dos dados no powerquery.
